@@ -5,18 +5,20 @@
 		<script src="resources/js/default.js"></script>
 	</head>
 	<body>
-		<header>
-			<input type="button" id="stop" value="fucking obnoxious -- Stop it" />
-			<div id="font"> 
-				<h1>FU</h1>
-			</div>
-		</header>
-		<article>
-			<img src="resources/img/image5653531.gif" />
-		</article>
-		<footer>
-			
-			<a href="http://pornhub.com">Made by me</a>
-		</footer>
-		
+		<div id="inner">
+			<header>
+				<input type="button" id="stop" value="fucking obnoxious -- Stop it" />
+				<div id="font">
+					<h1>FU</h1>
+				</div>
+			</header>
+			<article>
+				<img src="resources/img/image5653531.gif" />
+			</article>
+			<footer>
+
+				<a href="http://pornhub.com">Made by me</a>
+			</footer>
+		</div>
+
 	</body>
