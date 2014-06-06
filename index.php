@@ -4,15 +4,23 @@ require( 'classes/Main.php' );
 
 $button = '<input type="button" id="stop" value="fucking sweetly - obnoxious " />';
 
-?>
-
-
-<html>
+function head(){
+	?>
 	<head>
 		<link rel='stylesheet' href="resources/css/style.css" type="text/css" >
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="resources/js/default.js"></script>
 	</head>
+	<?php		
+}
+
+?>
+
+
+<html>
+	
+	<?php head(); ?>
+	
 	<body>
 		<div id="inner">
 			<header>
