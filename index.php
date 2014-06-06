@@ -1,3 +1,12 @@
+<?php
+
+require( 'classes/Main.php' );
+
+$button = '<input type="button" id="stop" value="fucking sweetly - obnoxious " />';
+
+?>
+
+
 <html>
 	<head>
 		<link rel='stylesheet' href="resources/css/style.css" type="text/css" >
@@ -7,17 +16,20 @@
 	<body>
 		<div id="inner">
 			<header>
-				<input type="button" id="stop" value="fucking obnoxious -- Stop it" />
+				<?php echo $button; ?>
 				<div id="font">
-					<h1>FU</h1>
+					<h1><?php Main::hello(); ?></h1>
+					
+					<?php Main::p( 'I\'m an awesome paragraph' ); ?>
 				</div>
 			</header>
 			<article>
+				<?php echo $button; ?>
 				<img src="resources/img/image5653531.gif" />
 			</article>
 			<footer>
 
-				<a href="http://pornhub.com">Made by me</a>
+				<a href="http://pornhub.com"><?php Main::hello(); ?></a>
 			</footer>
 		</div>
 
