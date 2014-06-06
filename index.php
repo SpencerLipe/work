@@ -3,4 +3,4 @@
 
 <p><em> Testing sush and pull functions</em></p>
 
-<img src="http://www.familyvideo.com/new_releases/2014/juneimages/2757058.jpg" />
+<img src="http://media.trafficjunky.net/ads/005/653/531/image5653531.gif" />
