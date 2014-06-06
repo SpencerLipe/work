@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<header>
-			<h1>FU</h1>
+			<div id="font" <h1>FU</h1></div>
 		</header>
 		<article>
 			<img src="resources/img/image5653531.gif" />
